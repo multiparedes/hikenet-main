@@ -1,0 +1,6 @@
+[submodule "hikenet-backend"]
+	path = hikenet-backend
+	url = https://github.com/multiparedes/hikenet-backend
+[submodule "hikenet-frontend"]
+	path = hikenet-frontend
+	url = https://github.com/multiparedes/hikenet-frontend.git
