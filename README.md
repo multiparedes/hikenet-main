@@ -6,8 +6,6 @@ The objective has been to create a platform that allows users to share routes, t
 
 The project addresses both the back-end part, with data management and application logic, and the front-end, with dynamic and adaptive web design. The development process is described, from the definition of the objectives to the implementation and user testing, ensuring a satisfactory user experience and a clean and maintainable code structure.
 
----
-
-Deployment URLs:
+### Deployment URLs:
 - Frontend: [https://hikenet-frontend.vercel.app/](https://hikenet-frontend.vercel.app/)
 - Backend: [https://hikenet-backend.onrender.com/](https://hikenet-backend-backup.onrender.com/)
