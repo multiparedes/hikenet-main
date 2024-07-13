@@ -1,5 +1,5 @@
 # HikeNet WebApp
 
 Deployment URLs:
-- Frontend: https://hikenet-frontend.onrender.com/
-- Backend: https://hikenet-backend.onrender.com/
+- Frontend: [https://hikenet-frontend.vercel.app/](https://hikenet-frontend.vercel.app/)
+- Backend: [https://hikenet-backend.onrender.com/](https://hikenet-backend-backup.onrender.com/)
